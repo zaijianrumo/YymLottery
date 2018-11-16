@@ -1,0 +1,6 @@
+framework module YymLotterySDK {
+  umbrella header "YymLotterySDK.h"
+
+  export *
+  module * { export * }
+}

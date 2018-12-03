@@ -13,6 +13,8 @@
 
 - (void)share:(NSString *)sharejson;
 
+- (NSString *)getMobile;
+
 @end
 
 @interface YymLotteryObject : NSObject<YymLotteryProtocol>
